@@ -5,7 +5,7 @@ import streamlit as st
 # 在侧边栏中创建一个标题和一个链接
 with st.sidebar:
     st.markdown("## LLaMA3.1 LLM")
-    "[汤义的大模型](https://github.com/datawhalechina/self-llm.git)"
+    "[汤义的大模型](https://github.com/tangyi2005/Llama_chatbot.git)"
 
 # 创建一个标题和一个副标题
 st.title("💬 LLaMA3.1 llama_chat")
